@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://null-tc.netlify.com/* http://null.tc/:splat 301!
