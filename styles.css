@@ -1,0 +1,13 @@
+@tailwind base;
+
+a {
+    @apply text-orange-600;
+}
+
+.bg-gradient {
+    background: linear-gradient(#fff, #E2E8F0);
+}
+
+@tailwind components;
+
+@tailwind utilities;
