@@ -8,6 +8,15 @@ a {
     background: linear-gradient(#fff, #E2E8F0);
 }
 
+@responsive {
+    .text-7xl {
+        font-size: 140px;
+    }
+    .text-8xl {
+        font-size: 200px;
+    }
+}
+
 @tailwind components;
 
 @tailwind utilities;
