@@ -1,5 +1,5 @@
 deploy:
-	netlify deploy --prod
+	netlify deploy --prod --dir .
 
 preview: styles.min.css
 	php -S 127.0.0.1:8000
