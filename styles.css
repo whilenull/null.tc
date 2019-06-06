@@ -10,10 +10,10 @@ a {
 
 @responsive {
     .text-7xl {
-        font-size: 140px;
+        font-size: 130px;
     }
     .text-8xl {
-        font-size: 200px;
+        font-size: 180px;
     }
 }
 
